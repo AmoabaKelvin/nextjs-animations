@@ -51,17 +51,7 @@ export const Hero = () => {
             target="_blank"
             rel="noopener nofollow noreferrer"
           >
-            CodeSandbox
-          </a>
-          ,
-          <br />
-          rebuilt by{" "}
-          <a
-            href="#"
-            target="_blank"
-            rel="noopener nofollow noreferrer"
-          >
-            danielwuachin
+            CodeSandbox Landing Page Clone
           </a>
         </p>
 
@@ -70,11 +60,6 @@ export const Hero = () => {
           <br />
           reimagined.
         </h1>
-
-        <a href="https://github.com/danielwuachin/nextjs-animations" className="flex items-center text-lg text-primary">
-          <GithubIcon className="mr-2 inline h-5 w-5" />
-          Import GitHub project
-        </a>
       </motion.div>
     </motion.section>
   );
